@@ -1,4 +1,4 @@
 flask
 flask-cors
 gunicorn
-pybcv
+pyBCV==1.0.4
